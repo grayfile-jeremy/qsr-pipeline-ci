@@ -1,0 +1,53 @@
+JobCodeDesc,bucket
+AGM 1,MGR
+AGM 2,MGR
+AGM 3,MGR
+Assistant General Manager,MGR
+Assistant Manager,MGR
+BOH Team,BOH
+BOH Trainee,BOH
+CSS Cashier,FOH
+CSS Emergency Cashier,FOH
+Cashier,FOH
+Catering,FOH
+ColdLine Team Member,BOH
+ColdLine Trainer,BOH
+Cook,BOH
+Corporate,OTHER
+Custard,BOH
+DT Test,FOH
+Development Manager,MGR
+FOH Team,FOH
+FOH Trainee,FOH
+General Manager,MGR
+HotLine Team Member,BOH
+Hotline Trainer,BOH
+Hourly,OTHER
+Hourly Manager,MGR
+INTERNET EMPLOYEE,OTHER
+Interface Employee,OTHER
+Inventory Manager,MGR
+JRI Cash,FOH
+JRI Cashier Train,FOH
+JRI Cater,FOH
+JRI Cook,BOH
+JRI Cook Train,BOH
+JRI GM,MGR
+JRI Manager,MGR
+JRI Supervisor,MGR
+MIT,MGR
+Maintenance Manager,MGR
+Manager,MGR
+Multi-unit Manager,MGR
+NA BOH,BOH
+NA FOH,FOH
+Regional Manager,MGR
+Register Training Mode,OTHER
+Sr Manager,MGR
+Sr. General Manager,MGR
+Supervisor,MGR
+Team Member,FOH
+Trainee,FOH
+Trainee ColdLine,BOH
+Trainee HotLine,BOH
+Trainer,FOH

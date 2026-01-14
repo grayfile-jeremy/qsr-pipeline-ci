@@ -1,0 +1,15 @@
+cat > .gitignore <<'EOF'
+__pycache__/
+*.pyc
+.venv/
+.env
+*.log
+output/
+*.parquet
+
+# Don't commit large outputs
+*.csv
+
+# Allow specific config CSVs
+!config/*.csv
+EOF

@@ -1,0 +1,8 @@
+cat > requirements.txt <<'EOF'
+pandas
+numpy
+requests
+python-dateutil
+boto3
+pyarrow
+EOF
