@@ -13,3 +13,4 @@ output/
 # Allow specific config CSVs
 !config/*.csv
 EOF
+.env.local
